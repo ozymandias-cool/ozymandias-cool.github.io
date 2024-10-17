@@ -1,0 +1,19 @@
+h1 {
+    color: blueviolet;
+}
+
+h2  {
+    color: darkgoldenrod;
+}
+
+h3 {
+    color: dodgerblue;
+}
+
+
+
+Body{
+ background-image: url("images/REAL OLD.jpg");
+ height: 100vh;
+ background-size: cover;
+}
